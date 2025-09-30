@@ -143,6 +143,7 @@ endmodule
 Simulation is carried out using EDA playground
 
 Verify setup and hold constraints for all random input patterns
+<img width="1913" height="1020" alt="image" src="https://github.com/user-attachments/assets/26e4dda9-4c0e-4112-bbc0-6bbf990cefbf" />
 
 
 ---
